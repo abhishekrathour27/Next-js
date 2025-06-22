@@ -1,9 +1,9 @@
-import Image from "next/image";
+import HomeComponent from "./components/Home";
 
 export default function Home() {
   return (
     <div className="p-5">
-      <h1 className="">Hello Developers</h1>
+      {/* <HomeComponent />git  */}
     </div>
   );
 }
